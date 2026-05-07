@@ -1,3 +1,4 @@
+//this is cool
 void seconst int trigPin = 7;
 const int echoPin = 8;
 
